@@ -1,1 +1,0 @@
-<?php header( 'Location: /fresh_tomatoes.html' ) ;  ?>
