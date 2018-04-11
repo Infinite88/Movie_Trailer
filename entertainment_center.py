@@ -47,7 +47,7 @@ wow_cataclysm = media.Movie(
 
 witcher3 = media.Movie(
 	'The Witcher 3: Wild Hunt',
-	'http://static.cdprojektred.com/thewitcher/media/wallpapers/witcher3/full/witcher3_en_wallpaper_wallpaper_7_1920x1200_1433245916.jpg', #noqa
+	'https://m.smedata.sk/api-media/media/image/sme/0/25/2532750/2532750_1200x.png?rev=3', #noqa
 	'https://www.youtube.com/watch?v=xt_65k-gv1U',
 	'Action Role-Playing',
 	'CD Projekt RED')

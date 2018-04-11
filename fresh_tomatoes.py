@@ -19,7 +19,7 @@ main_page_head = '''
     <style type="text/css" media="screen">
         body {
             padding-top: 80px;
-            background-color: black;
+            background-color: #eeeeee;
         }
         #trailer .modal-dialog {
             margin-top: 200px;
@@ -40,8 +40,22 @@ main_page_head = '''
             margin-bottom: 20px;
             padding-top: 20px;
         }
+        .navbar-header {
+            float: left;
+            padding: 15px;
+            text-align: center;
+            width: 100%;
+            margin-top: 0.5%;
+            margin-bottom: 0.2%;
+        }
+        .navbar-brand {
+            float:none;
+            color: #f5f5f5;
+            font-size: xx-large;
+            font-family: cursive;
+        }
         .movie-tile:hover {
-            background-color: #2E2E2E;
+            background-color: rgba(0,0,0,0.1);
             cursor: pointer;
         }
         .scale-media {
@@ -55,7 +69,7 @@ main_page_head = '''
             width: 100%;
             left: 0;
             top: 0;
-            background-color: white;
+            background-color: grey;
         }
     </style>
     <script type="text/javascript" charset="utf-8">
@@ -108,7 +122,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">Video Game Cinematics</a>
           </div>
         </div>
       </div>
