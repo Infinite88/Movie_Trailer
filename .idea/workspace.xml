@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba7353f2-bbea-432e-9ac1-132542a16353" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="ba7353f2-bbea-432e-9ac1-132542a16353" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="entertainment_center.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="entertainment_center.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/entertainment_center.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="332">
@@ -45,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
@@ -85,7 +81,7 @@
         </entry>
       </file>
       <file leaf-file-name="fresh_tomatoes.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+        <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3864">
               <caret line="168" column="6" selection-start-line="168" selection-start-column="6" selection-end-line="168" selection-end-column="6" />
@@ -147,11 +143,6 @@
               <item name="Movie_Trailer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Movie_Trailer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Movie_Trailer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Movie_Trailer" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -167,11 +158,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -200,8 +192,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2236" y="204" width="960" height="876" extended-state="5" />
-    <editor active="true" />
+    <frame x="3520" y="21" width="960" height="1004" extended-state="4" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -209,7 +200,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27651006" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23515981" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30525163" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -277,7 +268,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3634">
           <caret line="158" column="40" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
@@ -328,7 +319,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3634">
           <caret line="158" column="40" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
@@ -372,7 +363,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3634">
           <caret line="158" column="40" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
@@ -420,7 +411,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3634">
           <caret line="158" column="40" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
@@ -457,7 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3634">
           <caret line="158" column="40" lean-forward="true" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
@@ -484,7 +475,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
@@ -511,7 +502,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
@@ -528,7 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1702">
           <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
@@ -542,7 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2093">
           <caret line="91" column="14" lean-forward="true" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
@@ -556,7 +547,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2484">
           <caret line="108" column="97" selection-start-line="108" selection-start-column="97" selection-end-line="108" selection-end-column="97" />
@@ -591,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fresh_tomatoes.html">
+    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3864">
           <caret line="168" column="6" selection-start-line="168" selection-start-column="6" selection-end-line="168" selection-end-column="6" />
@@ -612,13 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fresh_tomatoes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2898">
@@ -636,6 +620,13 @@
           <folding>
             <element signature="e#10#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
