@@ -1,6 +1,1 @@
 flask
-oauth2client
-SQLAlchemy
-Requests
-dicttoxml
-httplib2
